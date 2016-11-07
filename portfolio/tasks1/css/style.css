@@ -6,7 +6,7 @@
 
 @font-face{
     font-family: Montserrat-Regular; /* Гарнитура шрифта */
-    src: url(/css/Montserrat-Regular.ttf); /* Путь к файлу со шрифтом */
+    src: url(../css/Montserrat-Regular.ttf); /* Путь к файлу со шрифтом */
 }
 
 .content{
@@ -16,7 +16,7 @@
 .registration-form{
 	padding: 10px 20px;
 	color: #4e5051;
-	font-family: Lato-Regular, sans-serif;
+	font-family: "Lato-Regular", sans-serif;
 	font-size: 13px;
 }
 
@@ -56,7 +56,7 @@ input {
 
 .wrap-head{
 	background: #27292b;
-	font-family: Montserrat-Regular, sans-serif;
+	font-family: "Montserrat-Regular", sans-serif;
 	font-size: 29px;
 	color: #fff;
 	padding: 15px 15px 0 15px;
@@ -82,7 +82,7 @@ input[type="checkbox"] + label {
 }
 
 .school_organization{
-	background: url(/img/loupe.jpg) no-repeat;
+	background: url(../img/loupe.jpg) no-repeat;
 	background-position: 100% 50%, 100% 100%;
 }
 
@@ -176,7 +176,7 @@ input[type="checkbox"] + label{
 		.registration-form{
 			padding: 10px 10px;
 			color: #4e5051;
-			font-family: Lato-Regular, sans-serif;
+			font-family: "Lato-Regular", sans-serif;
 			font-size: 13px;
 		}
 		.form_group{
