@@ -101,10 +101,10 @@ button{
 	color: #fff;
 }
 .button_one:hover{
-	color: #457961;
+	background-color: #457961;
 }
 .button_two:hover{
-	color: #383a3c;
+	background-color: #181a1b;
 }
 input,
 textarea {
