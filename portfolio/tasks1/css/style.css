@@ -100,7 +100,12 @@ button{
 	background: #6abd97;
 	color: #fff;
 }
-
+.button_one:hover{
+	color: #457961;
+}
+.button_two:hover{
+	color: #383a3c;
+}
 input,
 textarea {
 	outline: 0;
